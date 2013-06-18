@@ -1,10 +1,11 @@
-# SocialGeeks Inc. 30 day plan (month of July)  
+# SocialGeeks Inc. 30 day plan (July)  
 
 ## Money  
 * Salary/money for Executive Director.  
-This is of crucial importance so I (Dan) can focus on building SocialGeeks without worrying about the security of my family and/or having to spend too much time bidding and working on non SocialGeeks jobs.  
+This is of crucial importance so Dan can focus on building SocialGeeks without worrying about the security his family and/or having to spend too much on no-SocialGeeks related work to pay the bills.  
 
 ## Incorporate  
+* File articles of incorporation with Idaho Secretary of State  
 
 ## Form 1023 (tax exempt status, let us take donations)   
 * Talk to lawyer about 1023  
