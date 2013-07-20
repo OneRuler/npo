@@ -15,9 +15,6 @@ The purpose of the conflict of interest policy is to protect this tax-exempt org
 
 Any director, principal officer, or member of a committee with governing board delegated powers, who has a direct or indirect financial interest, as defined below, is an interested person.
 
-[Hospital Insert - for hospitals that complete Schedule C
-If a person is an interested person with respect to any entity in the health care system of which the organization is a part, he or she is an interested person with respect to all entities in the health care system.]
-
 
 2\. **Financial Interest**
 
@@ -136,7 +133,157 @@ To ensure the Organization operates in a manner consistent with charitable purpo
 
 When conducting the periodic reviews as provided for in Article VII, the Organization may, but need not, use outside advisors. If outside experts are used, their use shall not relieve the governing board of its responsibility for ensuring periodic reviews are conducted.
 
-Appendix B: States with Statutory Provisions Satisfying the Requirements of Internal Revenue Code Section 508(e) except for such private foundations which expressly provide in their governing instruments that the applicable sections of Idaho law do not apply to them.
+Appendix B: States with Statutory Provisions Satisfying the Requirements of Internal Revenue Code Section 508(e)
+
+> The following states have adopted legislation satisfying the requirements of section 508(e) relating to private foundation governing instruments. Information derived from Revenue Ruling 75-38, 1975-1 C.B. 161.
+
+
+ALABAMA - except where otherwise provided by a decree of a court of competent jurisdiction or by a provision in the private foundation's governing instrument which in either case has been entered or made after October 1, 1971, and expressly limits the applicability of State law.
+
+
+ALASKA - except for such private foundations which expressly provide in their governing instruments that the applicable sections of Alaska law do not apply to them.
+
+
+ARKANSAS - except for such private foundations which expressly provide in their governing instruments that the applicable sections of Arkansas law do not apply to them and except in the case of trusts where otherwise provided by decree of a court of competent jurisdiction.
+
+
+CALIFORNIA - except where otherwise provided by a court of competent jurisdiction.
+
+
+COLORADO - with respect to trusts that are private foundations except where otherwise provided by a court of competent jurisdiction.
+
+
+CONNECTICUT - except where otherwise provided by a court of competent jurisdiction.
+
+
+DELAWARE - except for such private foundations which expressly provide in their governing instruments that the applicable sections of Delaware law do not apply to them.
+
+
+DISTRICT OF COLUMBIA - except for such corporations which expressly provide in their governing instruments that the applicable sections of District of Columbia law do not apply to them and except in the case of trusts where otherwise provided by a court of competent jurisdiction. (For purposes of this statute, corporations include corporations organized under any Act of Congress applicable to the District of Columbia as well as corporations organized under the laws of the District of Columbia.)
+
+
+FLORIDA - except for such trusts which file a proper election not to be subject to the applicable provisions of Florida law and for such corporations as to which a court of competent jurisdiction has otherwise determined.
+
+
+GEORGIA - except for such private foundations which file a proper election not to be subject to such law.
+
+
+HAWAII - no exceptions.
+
+
+IDAHO - except for such private foundations which expressly provide in their governing instruments that the applicable sections of Idaho law do not apply to them.
+
+
+ILLINOIS - except for such corporations which have express provisions to the contrary in their articles of incorporation and except for trusts where it is otherwise provided by a court of competent jurisdiction.
+
+
+INDIANA - except where otherwise determined by a court of competent jurisdiction with respect to private foundations organized before January 1, 1970.
+
+
+IOWA - except for such private foundations which expressly provide in their governing instruments that the applicable sections of Iowa law do not apply to them.
+
+
+KANSAS - except where otherwise provided by a court of competent jurisdiction.
+
+
+KENTUCKY - except, with respect to corporations in existence on July 1, 1972, to the extent that such a corporation provides to the contrary by amendment to its articles of incorporation adopted after July 1, 1972, and, with respect to trusts in existence on July 1, 1972, where action is properly commenced on or before December 31, 1972, in a court of competent jurisdiction to excuse the trust from compliance with the requirements of section 508(e) of the Code.
+
+
+LOUISIANA - except for such private foundations which expressly provide in their governing instruments that the applicable sections of Louisiana law do not apply to them.
+
+
+MAINE - except where otherwise provided by a court of competent jurisdiction.
+
+
+MARYLAND - except where otherwise provided by a court of competent jurisdiction.
+
+
+MASSACHUSETTS - except where otherwise provided by a court of competent jurisdiction.
+
+
+MICHIGAN - with respect to trusts that are private foundations except for such private foundations which file a notice of inconsistency under Michigan law.
+
+
+MINNESOTA - except for private foundations that have been held by a court of competent jurisdiction not to be affected by such State statute.
+
+
+MISSISSIPPI - except where otherwise provided by a court of competent jurisdiction.
+
+
+MISSOURI - except for private foundations that have been held by a court of competent jurisdiction not to be affected by such State statute.
+
+
+MONTANA - except in the case of trusts where otherwise provided by court decree entered after March 28, 1974, and except in the case of a corporation which has an express provision to the contrary in its articles of incorporation.
+
+
+NEBRASKA - except for such trusts which effectively elect to be excluded from the applicable sections of Nebraska law, for such corporations which have governing instruments expressly providing to the contrary, and except as a court of competent jurisdiction has otherwise determined in any given case.
+
+
+NEVADA - no exceptions.
+
+
+NEW HAMPSHIRE - except where it is otherwise provided by a court of competent jurisdiction.
+
+
+NEW JERSEY - except for such private foundations which expressly provide in their governing instruments that the applicable sections of New Jersey law do not apply to them.
+
+
+NEW YORK - except where such law conflicts with any mandatory direction of an instrument by which assets were transferred prior to June 1, 1971, and such conflicting direction has not been removed legally.
+
+
+NORTH CAROLINA - except for such private foundations which expressly provide in their governing instruments that the applicable sections of North Carolina law do not apply to them and except for trusts that have their governing instruments reformed by a decree of the Superior Court of North Carolina.
+
+
+NORTH DAKOTA - with respect to trusts that are private foundations except where otherwise provided by a court of competent jurisdiction.
+
+
+OHIO - except in the case of trusts where it is provided otherwise by a court of competent jurisdiction and except in the case of corporations in existence on September 17, 1971, which expressly adopt contrary provisions in their governing instruments after September 17, 1971.
+
+
+OKLAHOMA - except for such private foundations which file a proper election not to be subject to such law.
+
+
+OREGON - no exceptions.
+
+
+PENNSYLVANIA - except where otherwise provided by a court of competent jurisdiction.
+
+
+RHODE ISLAND - except where otherwise provided by a court of competent jurisdiction.
+
+
+SOUTH CAROLINA - except for private foundations which expressly provide in their governing instruments that the applicable sections of South Carolina law do not apply to them.
+
+
+SOUTH DAKOTA - except where otherwise provided by a court of competent jurisdiction.
+
+
+TENNESSEE - except where otherwise provided by a court of competent jurisdiction.
+
+
+TEXAS - except for such private foundations which file a proper election not to be subject to such law.
+
+
+UTAH - with respect to trusts that are private foundations except where otherwise provided by a court of competent jurisdiction.
+
+
+VERMONT - except where otherwise provided by a court of competent jurisdiction.
+
+
+VIRGINIA - except for private foundations whose governing instruments contain express provisions to the contrary or which have filed a proper election not to be subject to such law.
+
+
+WASHINGTON - except for such private foundations which expressly provide in their governing instruments that the applicable sections of Washington law do not apply to them.
+
+
+WEST VIRGINIA - with respect to trusts that are private foundations except for such trusts which provide in their governing instruments that the applicable sections of West Virginia law do not apply to them.
+
+
+WISCONSIN - except as may otherwise be provided by decree of a court of competent jurisdiction.
+
+
+WYOMING - except where otherwise provided by a court of competent jurisdiction.
+
 
 Appendix C: Glossary of Terms
 
@@ -216,21 +363,6 @@ All forms of income from working, including salary or wages; deferred compensati
 
 Conflict of interest policy
 A conflict of interest arises when a person in a position of authority over an organization, such as a director, officer, or manager, may benefit personally from a decision he or she could make. A conflict of interest policy consists of a set of procedures to follow to avoid the possibility that those in positions of authority over an organization may receive an inappropriate benefit.
-
-
-
-Controlled by disqualified persons
-As a section 509(a)(3) supporting organization, you may not be controlled directly or indirectly by disqualified persons. You are controlled if disqualified persons can exercise 50% or more of the total voting power of your governing body. You are also controlled if disqualified persons have authority to affect significant decisions, such as power over your investment decisions, or power over your charitable disbursement decisions. You are also controlled if disqualified persons can exercise veto power. Although control is generally demonstrated where disqualified persons have the authority over your governing body to require you to take an action or refrain from taking an action, indirect control by disqualified persons will also disqualify you as a supporting organization.
-
-
-
-Cooperative hospital service organization
-An organization described in section 501(e) is organized and operated on a cooperative basis to provide its section 501(c)(3) hospital members one or more of the following activities: data processing, purchasing (including purchasing insurance on a group basis), warehousing, billing and collection (including purchasing patron accounts receivable on a recourse basis), food, clinical, industrial engineering, laboratory, printing, communications, record center, and personnel (including selecting, testing, training, and educating personnel) services.
-
-
-
-Cooperative service organization of operating educational organizations
-An organization described in section 501(f) is organized and operated to provide investment services to its members. Those members must be organizations described in section 170(b)(1)(A)(ii) or (iv), and either tax exempt under section 501(a) or whose income is excluded from taxation under section 115(a).
 
 
 
