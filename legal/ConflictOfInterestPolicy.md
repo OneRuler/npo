@@ -49,7 +49,7 @@ In connection with any actual or possible conflict of interest, an interested pe
 After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the governing board or committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining board or committee members shall decide if a conflict of interest exists.
 
 
-3.** Procedures for Addressing the Conflict of Interest**
+3\. **Procedures for Addressing the Conflict of Interest**
 
 
 **a.** An interested person may make a presentation at the governing board or committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
@@ -61,7 +61,7 @@ After disclosure of the financial interest and all material facts, and after any
 **d.** If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Organization's best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination it shall make its decision as to whether to enter into the transaction or arrangement.
 
 
-4\. ** Violations of the Conflicts of Interest Policy**
+4\. **Violations of the Conflicts of Interest Policy**
 
 
 **a.** If the governing board or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
@@ -94,9 +94,6 @@ The minutes of the governing board and all committees with board delegated power
 **b.** A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization for services is precluded from voting on matters pertaining to that member's compensation.
 
 **c.** No voting member of the governing board or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization, either individually or collectively, is prohibited from providing information to any committee regarding compensation.
-
-[Hospital Insert - for hospitals that complete Schedule C
-**d.** Physicians who receive compensation from the Organization, whether directly or indirectly or as employees or independent contractors, are precluded from membership on any committee whose jurisdiction includes compensation matters. No physician, either individually or collectively, is prohibited from providing information to any committee regarding physician compensation.]
 
 
 
