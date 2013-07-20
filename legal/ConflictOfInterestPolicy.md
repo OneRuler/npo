@@ -371,13 +371,13 @@ The act of directly contacting or urging the public to contact members of a legi
 Intellectual property
 A type of property (distinct from real or personal property) which includes:
 
-**a.**Patents (for inventions).
+**a.** Patents (for inventions).
 
-**b.**Copyrights (for literary and artistic works such as novels, poems, plays, films, musical works, drawings, paintings, photographs, sculptures, architectural designs, performances, recordings, film, and radio or television programs).
+**b.** Copyrights (for literary and artistic works such as novels, poems, plays, films, musical works, drawings, paintings, photographs, sculptures, architectural designs, performances, recordings, film, and radio or television programs).
 
-**c.**Trade names, trade marks, and service marks (for symbols, names, images, and designs).
+**c.** Trade names, trade marks, and service marks (for symbols, names, images, and designs).
 
-**d.**Formulas, know-how, and trade secrets.
+**d.** Formulas, know-how, and trade secrets.
 
 
 
@@ -469,13 +469,13 @@ The family or business relationships between persons.
 Relationship
 A relationship between you and the recipient organization includes the following situations:
 
-**a.**You control the organization or it controls you through common officers, directors, or trustees, or through authority to approve budgets or expenditures.
+**a.** You control the organization or it controls you through common officers, directors, or trustees, or through authority to approve budgets or expenditures.
 
-**b.**You and the organization were created at approximately the same time and by the same persons.
+**b.** You and the organization were created at approximately the same time and by the same persons.
 
-**c.**You and the organization operate in a coordinated manner with respect to facilities, programs, employees, or other activities.
+**c.** You and the organization operate in a coordinated manner with respect to facilities, programs, employees, or other activities.
 
-**d.**Persons who exercise substantial influence over you also exercise substantial influence over the other organization.
+**d.** Persons who exercise substantial influence over you also exercise substantial influence over the other organization.
 
 
 
@@ -503,15 +503,15 @@ Application for Employer Identification Number.
 School
 A school is an educational organization whose primary function is the presentation of formal instruction and which normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on. A school may include a:
 
-**a.**Primary, secondary, preparatory, or high school.
+**a.** Primary, secondary, preparatory, or high school.
 
-**b.**College or university.
+**b.** College or university.
 
-**c.**Trade or technical school.
+**c.** Trade or technical school.
 
-**d.**Nursery or preschool.
+**d.** Nursery or preschool.
 
-**e.**School that you operate as an activity, such as school that is operated as an activity of a museum, historical society, or church.
+**e.** School that you operate as an activity, such as school that is operated as an activity of a museum, historical society, or church.
 
 
 
@@ -528,11 +528,11 @@ Any individual or organization that gave more than $5,000 to you from the date y
 Successor
 An organization that took over:
 
-**a.**More than a negligible amount of the activities that were previously conducted by another organization;
+**a.** More than a negligible amount of the activities that were previously conducted by another organization;
 
-**b.**Twenty-five percent or more of the fair market value of the net assets of another organization; or
+**b.** Twenty-five percent or more of the fair market value of the net assets of another organization; or
 
-**c.**Was established upon the conversion of an organization from for-profit to non-profit status.
+**c.** Was established upon the conversion of an organization from for-profit to non-profit status.
 
 
 
@@ -550,9 +550,9 @@ An unincorporated association formed under state law must have at least two memb
 Unusual grants
 Substantial contributions and bequests from disinterested persons that by their size adversely affect classification as a public charity. They are:
 
-**a.**Unusual;
+**a.** Unusual;
 
-**b.**Unexpected; and
+**b.** Unexpected; and
 
-**c.**Received from an unrelated party.
+**c.** Received from an unrelated party.
 
